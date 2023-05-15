@@ -3,6 +3,6 @@ import  ReactDOM  from "react-dom";
 
 
 ReactDOM.render(
-    <div> My Wish List from REACT, created by DFM</div>,
+    <div> lista deseos con react</div>,
     document.getElementById("root")
 );
