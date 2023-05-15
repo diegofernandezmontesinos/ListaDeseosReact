@@ -1,0 +1,23 @@
+{
+  "name": "react-course-wishlist",
+  "version": "1.0.0",
+  "description": "An exercise for an introduction to React",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "keywords": [
+    "parcel",
+    "react"
+  ],
+  "author": "Alvaro Yuste (alvaroyuste.com)",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^8.40.0",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
